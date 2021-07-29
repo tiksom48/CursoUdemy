@@ -1,0 +1,13 @@
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.exe
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.deps.json
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.runtimeconfig.json
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.runtimeconfig.dev.json
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.dll
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.pdb
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.csproj.AssemblyReference.cache
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.AssemblyInfoInputs.cache
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.AssemblyInfo.cs
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.csproj.CoreCompileInputs.cache
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.dll
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.pdb
+D:\trabalhos C#\Uri 1036 Fórmula de Bhaskara\Uri 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\Uri 1036 Fórmula de Bhaskara.genruntimeconfig.cache
